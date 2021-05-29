@@ -57,12 +57,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\UIButton_ShowNext.cs" />
+    <Compile Include="Assets\Scripts\LightLine.cs" />
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCam.cs" />
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\SuperCamera.cs" />
+    <Compile Include="Assets\Scripts\LightCommutator.cs" />
     <Compile Include="Assets\Scripts\Keys.cs" />
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCamera.cs" />
-    <Compile Include="Assets\Scripts\LightCommutator.cs" />
-    <Compile Include="Assets\Scripts\LightLine.cs" />
+    <Compile Include="Assets\Scripts\ChannelScript.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Ciconia Studio\Shaders\Standard Shaders\BuiltIn\CS_Standard (Specular setup) Opaque.shader" />
